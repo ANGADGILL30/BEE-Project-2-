@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Nitish",
+    "comment": "hi everyone",
+    "rating": 5
+  },
+  {
+    "name": "angad",
+    "comment": "good\r\n",
+    "rating": 5
+  },
+  {
+    "name": "anish",
+    "comment": "very good",
+    "rating": 4
+  },
+  {
+    "name": "arsh",
+    "comment": "good",
+    "rating": 5
+  }
+]

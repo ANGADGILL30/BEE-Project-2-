@@ -1,0 +1,30 @@
+[
+  {
+    "name": "nitish",
+    "password": "$2b$10$7jROkCeDV.BujmHY0Xil..WFxhuwhNRHVaVYObdfQZBa4s/HfJn86"
+  },
+  {
+    "name": "chirag",
+    "password": "$2b$10$ILKN.Li3/TOyqycNwSQbPu.1UKzZM7YfhAqLq9Vw35OiC9dn4eNmi"
+  },
+  {
+    "name": "yash",
+    "password": "$2b$10$iWgSYSLeQq53ecx9Or6XI.6TjO5dsL3GocJQAbGdv8/F/l3zjW9VO"
+  },
+  {
+    "name": "soham",
+    "password": "$2b$10$ICILa14jzShrEC.Qss9eXuiK5i74i3uP75p4CsiIMEA4qmxczxoo."
+  },
+  {
+    "name": "shivam",
+    "password": "$2b$10$Yyf5vHptgDPPJqQs5IzTu.0sWaBt2w6BzwRJCfF5okzdFaDD5U3mi"
+  },
+  {
+    "name": "angad",
+    "password": "$2b$10$CLlqzEXzIEP9azqfC.SZt.8fsEyG/AMiXBhJGt3NwWFlcMjmni0C."
+  },
+  {
+    "name": "anish",
+    "password": "$2b$10$aPl18WW/.DCcXZL.xfL6qeOWQmOADcFtNKRO6WZtQnQ1ChBW8z9o."
+  }
+]
